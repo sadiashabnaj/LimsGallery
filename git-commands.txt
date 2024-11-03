@@ -1,0 +1,15 @@
+git init
+git remote add origin https://xyz.com/lkskjs
+
+git clone https://xyz.com/lkskjs
+
+
+git add .
+git commit -m "Message"
+git push origin master
+git status
+
+
+
+
+
